@@ -37,7 +37,7 @@ import { PageSocial } from './PageSocial'
 import { GitHubShareButton } from './GitHubShareButton'
 import { ReactUtterances } from './ReactUtterances'
 import { ViewCounter } from './ViewCounter'
-import { SimpleFeedback } from './SimpleFeedback'
+// import { SimpleFeedback } from './SimpleFeedback'
 
 import styles from './styles.module.css'
 
@@ -222,7 +222,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
               marginTop: '2rem'
             }}
           >
-            <SimpleFeedback slug={slug} />
+            {/* <SimpleFeedback slug={slug} /> */}
           </div>
 
           <div
