@@ -19,7 +19,8 @@ module.exports = {
   // social usernames (optional)
   twitter: null,
   github: 'roostinghawk',
-  wechatPublicName: 'roostinghawk',
+  // 公众号，如果没有就不用填写
+  wechatPublicName: '',
   wechatPublicURL: '',
   notionPublic: 'https://roostinghawk.notion.site/cbaa8269a2ce44bf84b67791a5c91e22',
 
