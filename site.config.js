@@ -52,6 +52,7 @@ module.exports = {
   //
   pageUrlOverrides: {
     '/running': 'fcb5f7f7b1db4954b7e057d8ed7c7237',
+    '/travel': '8b33691bfb334ff88390d3d84119454a'
   },
   showPageAsideSocials: true,
   footCounterList: [
